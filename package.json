@@ -1,0 +1,14 @@
+{
+  "name": "mobileAPI",
+  "version": "0.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "mongoose": "latest",
+    "express": "4.15.2",
+    "body-parser": "~1.0.1"
+  }
+}
